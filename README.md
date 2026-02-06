@@ -1,5 +1,9 @@
 # JCO - Intraday Momentum Index (IMI)
 
+![IMI Indicator Screenshot](screenshot.png)
+
+*The orange curve is the **IMI** (Intraday Momentum Index), shown here in comparison with the green curve which is the **RSI** (Relative Strength Index).*
+
 A cTrader indicator implementing the **Intraday Momentum Index (IMI)**, an oscillator developed by Tushar Chande.
 
 ## Description
